@@ -18,4 +18,4 @@ The best f1-score was obtained 85.31%
 
 WARNING: The dataset was uploded with .zip type because of big size of data(almost 87MB). If you cannot reach, Kaggle link of dataset: https://www.kaggle.com/datasets/marcpaulo/titanic-huge-dataset-1m-passengers
 
-Kaggle Notebook of this project: https://www.kaggle.com/datasets/marcpaulo/titanic-huge-dataset-1m-passengers/code?datasetId=4657723&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
+You can reach at this page Kaggle Notebook of this project: https://www.kaggle.com/datasets/marcpaulo/titanic-huge-dataset-1m-passengers/code
